@@ -1,0 +1,4 @@
+.dart_tool/
+build/
+# VS Code workspace settings (optional)
+.vscode/
