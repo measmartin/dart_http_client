@@ -90,6 +90,3 @@ lib/
 - Persistent history
 - Syntax highlighting
 - Streaming/chunked display for large responses
-
-## License
-MIT (or
